@@ -137,4 +137,6 @@ Enter the password, and if everything is correct, you should now be inside the d
 
 ---
 
-With this, the installation of **Oracle Database 21c XE** is complete 🎉.
+With this, the installation of **Oracle Database 21c XE** is completed.
+(I made a script to automatize this procces, you can download it [here!](/oraclelinux.sh))
+
